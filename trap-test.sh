@@ -17,4 +17,4 @@ echo "Child's pid is $child"
 wait $child
 exit_code=$?
 echo "Child process exited with code: $exit_code" 
-ehco "Bye bye..."
+echo "Bye bye..."
